@@ -1,0 +1,3 @@
+Use train.csv file for building a NLP model which will predict the news is fake or not depending on the label column in the dataset. If the Label column is 0 then the news is not fake and if the Label column is 1 then the news is fake.
+
+The model will take the input from the user and predict whether the news is fake or not on the basis of its performance.
